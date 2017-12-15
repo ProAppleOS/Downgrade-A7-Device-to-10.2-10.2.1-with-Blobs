@@ -108,6 +108,7 @@ iOS 10.2 IPSW
 15. Set up your Device
 16. Install Yalu or Saigon
 17. Jailbreak :D
+                                     ALL THIS WAS TESTED WITH IOS 10.3.1 iPHONE 5s
 
                                              DONE! ENJOY YOUR JAILBREAK :D
                                              
