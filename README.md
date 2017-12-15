@@ -111,17 +111,8 @@ iOS 10.2 IPSW
 
                                              DONE! ENJOY YOUR JAILBREAK :D
                                              
-THANKS TO @tihmstar
-THANKS TO @siguza
-THANKS TO @arx8x
+THANKS TO @tihmstar ;
+THANKS TO @siguza ;
+THANKS TO @arx8x ;
                                              
                                            MADE BY @iloveapple1999 on Twitter 
-   
-
-
-
-
-
-
-   
-
