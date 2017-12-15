@@ -19,9 +19,9 @@ a Mac (or virtual Machine)  , A7 device on 10.3.x , SHSH Blobs for 10.2 or 10.2.
    
 If your model identifier is listed there you can be happy because now you can downgrade to 10.2/10.2.1 with Blobs :)
 
-*
+
 Currently Supported Devices for DOWNGRADING is just the iPhone 5s, if you want to Downgrade your iPad, you need to find       Offsets and put it in Xcode Project and Compile it! How to find Offsets for v0rtex ( https://gist.github.com/uroboro/5b2b2b2aa1793132c4e91826ce844957 ) Video Tutorial ( https://www.reddit.com/r/jailbreak/comments/7iyyfh/tutorial_finding_offsets_for_v0rtex/?st=JB8AZGLS&sh=7780eff2 )
-*
+
 
                                                  DOWNLOADS:
 
