@@ -73,8 +73,8 @@ Currently Supported Devices for DOWNGRADING is just the iPhone 5s, if you want t
 14. Click „use .plist"
 15. Open your SHSH Blob.
 16. Go to bottom and some of you see Generator „<String>0x23ae4a983ds7<String>" or just generator String „0x23ae4a983ds7"
-17. Change the „0x23ae4a983ds7" to the Nonce that you got in the v0rtexNonce App! This means put the 0x...... Nonce that you got in the v0rtexNonce app on your phone into <String>0x......<String> or change the 0x....
-18. Don´t change amything else!
+17. Put that 0x.... from the blob into the v0rtexNonce app and set it.
+18. Don´t change anything !
 19. Close the file.
 20. Rename your blob to „blob.shsh2" NOT „blob.shsh2.plist" or NOT „blob.plist.shsh2"
 21. Click "use .shsh2"
