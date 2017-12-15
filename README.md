@@ -23,7 +23,7 @@ If your model identifier is listed there you can be happy because now you can do
 Currently Supported Devices for DOWNGRADING is just the iPhone 5s, if you want to Downgrade your iPad, you need to find       Offsets and put it in Xcode Project and Compile it! How to find Offsets for v0rtex ( https://gist.github.com/uroboro/5b2b2b2aa1793132c4e91826ce844957 ) Video Tutorial ( https://www.reddit.com/r/jailbreak/comments/7iyyfh/tutorial_finding_offsets_for_v0rtex/?st=JB8AZGLS&sh=7780eff2 )
 *
 
-DOWNLOADS:
+                                                 DOWNLOADS:
 
 1. Download iPSW for your Device! You need iOS 10.3.3 IPSW for SEP and baseband and 10.2 IPSW or 10.2.1 IPSW. This depends on which Version you want to restore to. At the end you need 2 IPSW. You can Download iPSW here: www.ipsw.me 
 2. Download & install Xcode (Xcode from MacAppStore).
@@ -31,7 +31,7 @@ DOWNLOADS:
 4. Download Custom Buildmanifest here (Download that file with your Model identifier you looked up before on iTunes ) ( https://www.dropbox.com/sh/edrpjiek184trc9/AADxrcE2Bz2CGRgbMG9kxub8a?dl=0&lst= )
 5. Download latest Version from futurerestore ( http://api.tihmstar.net/builds/futurerestore/futurerestore-latest.zip )
 
-Lets Go :)
+                                                 Lets Go :)
 
 1. Unzip v0rtexNonce
 2. Open unzipped folder
@@ -111,9 +111,9 @@ iOS 10.2 IPSW
 
                                              DONE! ENJOY YOUR JAILBREAK :D
                                              
-                                             THANKS TO @tihmstar
-                                             THANKS TO @siguza
-                                                   THANKS TO @arx8x
+THANKS TO @tihmstar
+THANKS TO @siguza
+THANKS TO @arx8x
                                              
                                            MADE BY @iloveapple1999 on Twitter 
    
