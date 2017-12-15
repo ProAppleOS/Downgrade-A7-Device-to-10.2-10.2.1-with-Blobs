@@ -1,6 +1,6 @@
-Copyright by iloveapple1999 ©
-MADE BY @iloveapple1999 on Twitter 
-ANY QUESTION? @iloveapple1999 on Twitter 
+Copyright by iloveapple1999 © ;
+MADE BY @iloveapple1999 on Twitter; 
+ANY QUESTION? -> @iloveapple1999 on Twitter 
 
 # Downgrade-A7-Device-to-10.2-10.2.1-with-Blobs
 How to Downgrade A7 Device from 10.3.x to 10.2/10.2.1 with Blobs
