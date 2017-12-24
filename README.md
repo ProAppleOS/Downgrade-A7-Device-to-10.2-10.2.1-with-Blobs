@@ -1,4 +1,4 @@
-Copyright by iloveapple1999 © ;
+Copyright by ProAppleOS © ;
 MADE BY @ProAppleOS on Twitter; 
 ANY QUESTION? -> @ProAppleOS on Twitter 
 
