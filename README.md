@@ -111,9 +111,10 @@ iOS 10.2 IPSW
                                      ALL THIS WAS TESTED WITH IOS 10.3.1 iPHONE 5s
 
                                              DONE! ENJOY YOUR JAILBREAK :D
+- Feel free to Donate :) https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AXEXQHKE2GHNC
                                              
-THANKS TO @tihmstar ;
-THANKS TO @siguza ;
-THANKS TO @arx8x ;
+- THANKS TO @tihmstar 
+- THANKS TO @siguza 
+- THANKS TO @arx8x 
                                              
                                            MADE BY @ProAppleOS on Twitter 
